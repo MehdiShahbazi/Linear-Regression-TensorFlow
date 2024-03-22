@@ -4,7 +4,7 @@ This repository contains a simple implementation of a Linear Regression model to
 
 ## Linear Regression
 
-Linear regression is a method to approximate the relationship between variables. In a simple linear regression, there's a dependent variable (what we're trying to predict) and one or more independent variables (factors influencing the dependent variable). It's like finding a straight line that best fits the data points, helping us understand how changes in the independent variables relate to changes in the dependent variable.
+Linear regression is a basic method to approximate the relationship between variables. A simple linear regression has a dependent variable (what we're trying to predict) and one or more independent variables (factors influencing the dependent variable). It's like finding a straight line that best fits the data points, helping us understand how changes in the independent variables relate to changes in the dependent variable.
 
 In the linear regression equation ($Y = a X + b$), \(Y\) represents the dependent variable, \(X\) is the independent variable, and \(a\) and \(b\) are parameters we adjust. \(a\) is commonly referred to as the "slope" or "gradient," while \(b\) is the "intercept." This equation can be interpreted as \(Y\) being a function of \(X\), or more simply, \(Y\) depends on \(X\).
 
